@@ -3,9 +3,5 @@ pickle-mixin==1.0.2
 streamlit==1.16.0
 streamlit-option-menu==0.3.2
 scikit-learn==1.0.1
-pandas==1.4.4
-pickleshare==0.7.5
-sklearn==0.0.post1
-scikit-learn==1.0.1
-matplotlib==3.5.1
-pip==23.0.1
+
+
