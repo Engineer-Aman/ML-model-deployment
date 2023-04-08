@@ -9,7 +9,7 @@ Diamond = pickle.load(open('Diamnod_Model.sav', 'rb'))
 
 Flight = pickle.load(open('Flight_Price_Model.sav', 'rb'))
 
-House = pickle.load(open('US_House_Price_Model.sav', 'rb'))
+House = pickle.load(open('US_Hosue_Price_Model.sav', 'rb'))
 
 # sidebar for navigation
 with st.sidebar:
