@@ -8,4 +8,4 @@ pickleshare==0.7.5
 sklearn==0.0.post1
 scikit-learn==1.0.1
 matplotlib==3.5.1
-pip==21.2.4
+pip==23.0.1
