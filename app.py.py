@@ -5,11 +5,11 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # loading the saved models
-Diamond = pickle.load(open('C:/Diamnod_Model.sav', 'rb'))
+Diamond = pickle.load(open('Diamnod_Model.sav', 'rb'))
 
-Flight = pickle.load(open('C:/Flight_Price_Model.sav', 'rb'))
+Flight = pickle.load(open('Flight_Price_Model.sav', 'rb'))
 
-House = pickle.load(open('C:/US_House_Price_Model.sav', 'rb'))
+House = pickle.load(open('US_House_Price_Model.sav', 'rb'))
 
 # sidebar for navigation
 with st.sidebar:
